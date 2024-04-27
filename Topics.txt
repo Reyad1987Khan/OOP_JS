@@ -1,0 +1,37 @@
+Object Oriented Programming Bangla #1 [ Free OOP Course Outline and Introduction ]
+CODE ABC
+
+https://www.youtube.com/watch?v=ZiF2XzHKlik&list=PL2ozzDVxiDadtyMfWsB7tCJjuDlZWAKTl&index=1
+
+Four Principles of OOP.
+1.Abstraction: Hide somthing for simplicity, 
+2.Encapsulation: কিছু Property এবং Methds আছে যেগুলা Class এর বাহিরে কাজ না করার জন্য 'Private' করে রাখা হয় এবং এগুলা শুধু Class এর ভিতরে কাজ করে । আর যে Property এবং Methds গুলাকে Private বলে রাখা না হয় সে গুলা Class এর বাহিরেও কাজ করবে। যে গুলা Private না সেগুলাকে Public বলে এবং সেগুলাকে Class এর বাহিরেও User হয়। Private Property এবং Methds গুলা শুধু Class এর ভিতরেই Execite হয়। 
+
+More : https://www.youtube.com/watch?v=43OLOa41K9Y&list=PL2ozzDVxiDadtyMfWsB7tCJjuDlZWAKTl&index=14           Running
+https://www.youtube.com/watch?v=b5UznDoari0
+
+3.Inheritance
+4.Polymorphism
+https://www.youtube.com/watch?v=XxMUJ9-Pb2E&t=16s
+https://www.youtube.com/watch?v=vO9mm3phL_8
+
+Question 01. Why OOP?
+Answer 01 : Reuseability of Program, Memory efficient, DRY = Don't Repet Yourself.(No repet of code)
+
+Question 01. How  OOP structed in Programming?
+Answer 01 :     Class
+		Object
+		Properties
+		Methods
+
+
+this keyword
+new keyword
+Prototype
+Function Constructor
+Class Constructor(ES6)
+Object.creare()
+Public Method and Propertice
+Private Method and Propertice
+Getter
+Setter
